@@ -36,6 +36,10 @@ The aim is to answer some questions about the driver behavior while exploring th
 - Percent composition of business miles vs personal miles
 - Time spent per category and purpose
 
+## Project Solution
+
+- [Uber Data Analysis](https://github.com/Rahul1097/Uber-Data-Analysis-Project/blob/master/Uber_pandas_to_upload.ipynb)
+
 ## Technology Stack
 - Python - Pandas,Numpy,Seaborn,Matplotlib,datetime
 - Data Analysis
