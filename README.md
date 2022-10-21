@@ -38,7 +38,7 @@ The aim is to answer some questions about the driver behavior while exploring th
 
 ## Project Solution
 
-- [Uber Data Analysis](https://github.com/Rahul1097/Uber-Data-Analysis-Project/blob/master/Uber_pandas_to_upload.ipynb)
+- [Uber Data Analysis](https://github.com/Rahul1097/Uber-Data-Analysis-Project/blob/master/Uber_data_analysis.ipynb)
 
 ## Technology Stack
 - Python - Pandas,Numpy,Seaborn,Matplotlib,datetime
